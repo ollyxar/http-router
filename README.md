@@ -2,7 +2,7 @@
 
 ## Intro
 
-This is simple PHP7 extension (written on pure C). You can build and install it on your system. It has tyny component that allows you to use [Lumen-like routes](https://lumen.laravel.com/docs/5.8/routing).
+This is simple PHP7 extension (written on pure C). You can build and install it on your system. It has tiny component that allows you to use [Lumen-like routes](https://lumen.laravel.com/docs/5.8/routing).
 
 Also you may find completely identical [analog](https://ollyxar.com/blog/lumen-like-routes) written on raw PHP.
 
