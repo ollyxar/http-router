@@ -106,4 +106,4 @@ Tests was made on Aser Aspire E15 (AMD A10) within docker container
 |               | Regular PHP Class | PHP Extension (C implementation) |
 |---------------|-------------------|----------------------------------|
 |Time in seconds| 1.787871599197389 | 1.473563671112060                |
-|Comparision    | 1.21 times slower | 1.21 times faster                |
+|Comparison    | 1.21 times slower | 1.21 times faster                |
